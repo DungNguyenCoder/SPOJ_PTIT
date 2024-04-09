@@ -1,0 +1,1 @@
+{"name":"Local: CPPMOD04","url":"e:\\SPOJ\\CPPMOD04.cpp","tests":[{"id":1712596811716,"input":"2 \n10 55 \n4 11","output":"1\n0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\SPOJ\\CPPMOD04.cpp","group":"local","local":true}

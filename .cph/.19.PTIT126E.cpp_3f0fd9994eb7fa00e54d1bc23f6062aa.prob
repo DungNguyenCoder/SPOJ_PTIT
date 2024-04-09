@@ -1,0 +1,1 @@
+{"name":"Local: 19","url":"e:\\SPOJ\\19.PTIT126E.cpp","tests":[{"id":1712065582684,"input":"YNNAPYYNY\nYAYAYAYA\nPYPPNNYA\nYNNAA\nNYAAA\n#","output":"yes\nneed quorum\ntie\nno\nneed quorum"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\SPOJ\\19.PTIT126E.cpp","group":"local","local":true}

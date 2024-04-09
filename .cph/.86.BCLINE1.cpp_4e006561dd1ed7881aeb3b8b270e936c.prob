@@ -1,0 +1,1 @@
+{"name":"Local: 86","url":"e:\\SPOJ\\86.BCLINE1.cpp","tests":[{"id":1712299769389,"input":"3 1 1","output":"2"},{"id":1712299778896,"input":"5 2 3","output":"3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\SPOJ\\86.BCLINE1.cpp","group":"local","local":true}

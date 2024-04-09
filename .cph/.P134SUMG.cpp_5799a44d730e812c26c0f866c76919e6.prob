@@ -1,0 +1,1 @@
+{"name":"Local: P134SUMG","url":"e:\\SPOJ\\P134SUMG.cpp","tests":[{"id":1712454856450,"input":"4\n1 7\n2 6\n3 8\n4 9","output":"1"},{"id":1712454888013,"input":"2\n3 8\n5 8","output":"1"},{"id":1712454912604,"input":"1\n3 10","output":"7"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\SPOJ\\P134SUMG.cpp","group":"local","local":true}

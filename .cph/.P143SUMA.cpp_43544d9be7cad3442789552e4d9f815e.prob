@@ -1,0 +1,1 @@
+{"name":"Local: P143SUMA","url":"e:\\SPOJ\\P143SUMA.cpp","tests":[{"id":1712627082619,"input":"2 2\n1 99\n100 0","output":"YES"},{"id":1712627098941,"input":"10 1\n100 100","output":"NO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\SPOJ\\P143SUMA.cpp","group":"local","local":true}

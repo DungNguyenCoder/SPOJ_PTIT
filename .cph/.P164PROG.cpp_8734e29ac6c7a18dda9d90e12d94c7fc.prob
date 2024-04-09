@@ -1,0 +1,1 @@
+{"name":"Local: P164PROG","url":"e:\\SPOJ\\P164PROG.cpp","tests":[{"id":1712593723209,"input":"25","output":"4"},{"id":1712593780705,"input":"1","output":"1"},{"id":1712593872387,"input":"20","output":"4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\SPOJ\\P164PROG.cpp","group":"local","local":true}

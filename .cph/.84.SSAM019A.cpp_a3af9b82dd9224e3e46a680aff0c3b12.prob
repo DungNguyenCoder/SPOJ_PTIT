@@ -1,0 +1,1 @@
+{"name":"Local: 84","url":"e:\\SPOJ\\84.SSAM019A.cpp","tests":[{"id":1712284968125,"input":"2\n9\n8","output":"0\n3"},{"id":1712286106957,"input":"3\n6\n12\n15","output":"2\n4\n0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\SPOJ\\84.SSAM019A.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: 92","url":"e:\\SPOJ\\92.BCBOM.cpp","tests":[{"id":1712332762884,"input":"3 2  \n..  \n.*  \n..  \n5 5  \n*.*.*  \n..*..  \n*****  \n.....  \n..**.  \n0 0","output":"11  \n1*  \n11  \n*3*3*  \n36*63  \n*****  \n24553  \n01**1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\SPOJ\\92.BCBOM.cpp","group":"local","local":true}

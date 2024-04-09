@@ -1,0 +1,1 @@
+{"name":"Local: 91","url":"e:\\SPOJ\\91.BCPTICH.cpp","tests":[{"id":1712309937322,"input":"7  \n1 6  \n2 9  \n3 8  \n4 1800  \n5 987654321  \n6 987654323  \n7 987654325","output":"1 1  \n2 2  \n3 0  \n4 8  \n5 17  \n6 1  \n7 23"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\SPOJ\\91.BCPTICH.cpp","group":"local","local":true}

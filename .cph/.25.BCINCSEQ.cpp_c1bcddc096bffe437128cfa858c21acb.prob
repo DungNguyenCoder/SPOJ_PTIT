@@ -1,0 +1,1 @@
+{"name":"Local: 25","url":"e:\\SPOJ\\25.BCINCSEQ.cpp","tests":[{"id":1712069712182,"input":"11\n88 99 11 22 22 33 11 66 33 44 77","output":"4"},{"id":1712069834252,"input":"5\n5 4 3 2 1","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\SPOJ\\25.BCINCSEQ.cpp","group":"local","local":true}

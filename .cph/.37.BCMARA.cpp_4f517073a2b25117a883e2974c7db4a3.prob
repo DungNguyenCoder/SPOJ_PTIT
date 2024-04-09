@@ -1,0 +1,1 @@
+{"name":"Local: 37","url":"e:\\SPOJ\\37.BCMARA.cpp","tests":[{"id":1712109571054,"input":"3\n11 20 20\n11 15 12\n14 20 14","output":"11 15 12\n11 20 20\n14 20 14"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\SPOJ\\37.BCMARA.cpp","group":"local","local":true}

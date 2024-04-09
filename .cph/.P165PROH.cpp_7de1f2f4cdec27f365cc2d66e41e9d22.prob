@@ -1,0 +1,1 @@
+{"name":"Local: P165PROH","url":"e:\\SPOJ\\P165PROH.cpp","tests":[{"id":1712590190668,"input":"2\n1 1 1\n4 6 6","output":"12\n28"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\SPOJ\\P165PROH.cpp","group":"local","local":true}

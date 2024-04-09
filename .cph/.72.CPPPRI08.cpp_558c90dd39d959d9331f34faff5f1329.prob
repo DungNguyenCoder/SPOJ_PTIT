@@ -1,0 +1,1 @@
+{"name":"Local: 72","url":"e:\\SPOJ\\72.CPPPRI08.cpp","tests":[{"id":1712278934467,"input":"3 \n62 7\n76 2\n3 5","output":"9 \n73 \n0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\SPOJ\\72.CPPPRI08.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: P144SUMA","url":"e:\\SPOJ\\P144SUMA.cpp","tests":[{"id":1712424779946,"input":"6\n10\n10\n10\n01\n10\n10","output":"3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\SPOJ\\P144SUMA.cpp","group":"local","local":true}

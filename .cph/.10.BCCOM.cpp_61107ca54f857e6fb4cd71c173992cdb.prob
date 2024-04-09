@@ -1,0 +1,1 @@
+{"name":"Local: 10","url":"e:\\SPOJ\\10.BCCOM.cpp","tests":[{"id":1711987778497,"input":"3\n43\n111\n57871","output":"7\n3\n1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\SPOJ\\10.BCCOM.cpp","group":"local","local":true}

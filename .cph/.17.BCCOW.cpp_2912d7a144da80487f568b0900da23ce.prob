@@ -1,0 +1,1 @@
+{"name":"Local: 17","url":"e:\\SPOJ\\17.BCCOW.cpp","tests":[{"id":1712056061210,"input":"15 6\n8 4 4 3 1 1","output":"15"},{"id":1712056438061,"input":"259 5\n81\n58\n42\n33\n61","output":"242"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\SPOJ\\17.BCCOW.cpp","group":"local","local":true}

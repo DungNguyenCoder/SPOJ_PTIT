@@ -1,0 +1,1 @@
+{"name":"Local: BCTHIDAU","url":"e:\\SPOJ\\BCTHIDAU.cpp","tests":[{"id":1712482133056,"input":"4\nStars 2 20 5 0 4 190 3 220\nRockets 5 180 1 0 2 0 3 100\nPenguins 1 15 3 120 1 300 4 0\nMarsupials 9 0 3 100 2 220 3 80","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\SPOJ\\BCTHIDAU.cpp","group":"local","local":true}

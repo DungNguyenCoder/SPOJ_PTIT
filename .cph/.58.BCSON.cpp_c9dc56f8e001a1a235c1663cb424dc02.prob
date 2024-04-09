@@ -1,0 +1,1 @@
+{"name":"Local: 58","url":"e:\\SPOJ\\58.BCSON.cpp","tests":[{"id":1712160834289,"input":"2 3\n4 3 4\n1 2 1","output":"42"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\SPOJ\\58.BCSON.cpp","group":"local","local":true}

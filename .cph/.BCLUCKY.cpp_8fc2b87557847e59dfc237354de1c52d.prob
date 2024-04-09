@@ -1,0 +1,1 @@
+{"name":"Local: BCLUCKY","url":"e:\\SPOJ\\BCLUCKY.cpp","tests":[{"id":1712673291640,"input":"9 100\n2\n33\n1\n2\n444\n33\n1\n1\n444","output":"12"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\SPOJ\\BCLUCKY.cpp","group":"local","local":true}

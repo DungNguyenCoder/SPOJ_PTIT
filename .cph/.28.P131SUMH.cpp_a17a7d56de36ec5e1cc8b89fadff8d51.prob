@@ -1,0 +1,1 @@
+{"name":"Local: 28","url":"e:\\SPOJ\\28.P131SUMH.cpp","tests":[{"id":1712070976758,"input":"2 3 5","output":"1"},{"id":1712070981736,"input":"3 5 9","output":"3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\SPOJ\\28.P131SUMH.cpp","group":"local","local":true}

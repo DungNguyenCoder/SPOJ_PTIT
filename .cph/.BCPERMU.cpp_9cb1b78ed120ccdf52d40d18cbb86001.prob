@@ -1,0 +1,1 @@
+{"name":"Local: BCPERMU","url":"e:\\SPOJ\\BCPERMU.cpp","tests":[{"id":1711767432227,"input":"3","output":"123\n132\n213\n231\n312\n321"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\SPOJ\\BCPERMU.cpp","group":"local","local":true}

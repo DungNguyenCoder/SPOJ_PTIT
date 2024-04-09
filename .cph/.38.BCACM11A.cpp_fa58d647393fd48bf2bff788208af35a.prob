@@ -1,0 +1,1 @@
+{"name":"Local: 38","url":"e:\\SPOJ\\38.BCACM11A.cpp","tests":[{"id":1712113743857,"input":"5\n100 100 200\n50 150 200\n100 50 300\n120 50 500\n140 50 700","output":"NO\nNO\nYES\nYES\nNO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\SPOJ\\38.BCACM11A.cpp","group":"local","local":true}

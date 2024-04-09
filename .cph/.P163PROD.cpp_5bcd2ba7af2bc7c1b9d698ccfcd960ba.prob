@@ -1,0 +1,1 @@
+{"name":"Local: P163PROD","url":"e:\\SPOJ\\P163PROD.cpp","tests":[{"id":1712654788493,"input":"101\n102","output":""},{"id":1712654799735,"input":"105\n106","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\SPOJ\\P163PROD.cpp","group":"local","local":true}

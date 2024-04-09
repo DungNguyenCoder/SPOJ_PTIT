@@ -1,0 +1,1 @@
+{"name":"Local: CPPREA04","url":"e:\\SPOJ\\CPPREA04.cpp","tests":[{"id":1712590796207,"input":"2 \n4 \n1 2 2 1 \n3 \n1 3 2","output":"1 2 1 2\n1 3 2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\SPOJ\\CPPREA04.cpp","group":"local","local":true}

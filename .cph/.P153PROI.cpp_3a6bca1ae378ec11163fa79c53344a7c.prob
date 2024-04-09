@@ -1,0 +1,1 @@
+{"name":"Local: P153PROI","url":"e:\\SPOJ\\P153PROI.cpp","tests":[{"id":1712674794698,"input":"3\nPosts and Telecommunications Institute of Technology\ni am a man\ngoogle","output":"41 postandelcmuifhgy\n5 iamn\n4 gole"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\SPOJ\\P153PROI.cpp","group":"local","local":true}

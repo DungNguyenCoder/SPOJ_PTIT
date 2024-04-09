@@ -1,0 +1,1 @@
+{"name":"Local: 16","url":"e:\\SPOJ\\16.BCCAR.cpp","tests":[{"id":1712054518388,"input":"2\n4\n24 13 89 37\n6\n7 30 41 14 39 42","output":"152\n70"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\SPOJ\\16.BCCAR.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: 9","url":"e:\\SPOJ\\9.SUMDIV.cpp","tests":[{"id":1712042776187,"input":"2\n5\n6","output":"6\n12"},{"id":1712043037518,"input":"1\n16","output":"31"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\SPOJ\\9.SUMDIV.cpp","group":"local","local":true}

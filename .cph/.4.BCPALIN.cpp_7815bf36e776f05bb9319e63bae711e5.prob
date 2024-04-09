@@ -1,0 +1,1 @@
+{"name":"Local: 4","url":"e:\\SPOJ\\4.BCPALIN.cpp","tests":[{"id":1711984772279,"input":"3\n101\n111\n100","output":"YES\nYES\nNO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\SPOJ\\4.BCPALIN.cpp","group":"local","local":true}

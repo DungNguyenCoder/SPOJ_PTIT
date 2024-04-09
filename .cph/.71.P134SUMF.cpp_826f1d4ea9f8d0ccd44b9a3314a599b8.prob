@@ -1,0 +1,1 @@
+{"name":"Local: 71","url":"e:\\SPOJ\\71.P134SUMF.cpp","tests":[{"id":1712255293202,"input":"10 7","output":"9"},{"id":1712255376160,"input":"7 3","output":"6"},{"id":1712255734783,"input":"15 12","output":"7"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\SPOJ\\71.P134SUMF.cpp","group":"local","local":true}

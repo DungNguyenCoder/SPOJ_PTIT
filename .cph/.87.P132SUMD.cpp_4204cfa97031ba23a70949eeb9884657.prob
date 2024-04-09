@@ -1,0 +1,1 @@
+{"name":"Local: 87","url":"e:\\SPOJ\\87.P132SUMD.cpp","tests":[{"id":1712300237795,"input":"5 3 8","output":"5+3=8"},{"id":1712300248653,"input":"5 15 3","output":"5=15/3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\SPOJ\\87.P132SUMD.cpp","group":"local","local":true}

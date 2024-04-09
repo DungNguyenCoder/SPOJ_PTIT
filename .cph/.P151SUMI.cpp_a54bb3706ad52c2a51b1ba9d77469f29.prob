@@ -1,0 +1,1 @@
+{"name":"Local: P151SUMI","url":"e:\\SPOJ\\P151SUMI.cpp","tests":[{"id":1712650650186,"input":"5\nVietnam\nVietnam\nVietnam\nVietnam\nVietnam","output":"Vietnam"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\SPOJ\\P151SUMI.cpp","group":"local","local":true}
