@@ -1,0 +1,1 @@
+{"name":"Local: P201PROF","url":"e:\\SPOJ\\P201PROF.cpp","tests":[{"id":1713923087237,"input":"123456789\n8","output":"12345678900000000"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\SPOJ\\P201PROF.cpp","group":"local","local":true}

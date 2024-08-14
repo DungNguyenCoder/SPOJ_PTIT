@@ -1,0 +1,1 @@
+{"name":"Local: PTIT017H","url":"e:\\SPOJ\\PTIT017H.cpp","tests":[{"id":1713350048306,"input":"6\n4\n8\n64\n128\n512\n65536","output":"YES\nNO\nYES\nNO\nNO\nYES"},{"id":1713350246655,"input":"1\n16","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\SPOJ\\PTIT017H.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: P167PROD","url":"e:\\SPOJ\\P167PROD.cpp","tests":[{"id":1713888436500,"input":"128\n?2\n200","output":"7"},{"id":1713888601512,"input":"1?8\n72\n172","output":"1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\SPOJ\\P167PROD.cpp","group":"local","local":true}

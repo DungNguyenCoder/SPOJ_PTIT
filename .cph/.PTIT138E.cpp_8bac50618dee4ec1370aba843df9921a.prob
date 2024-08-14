@@ -1,0 +1,1 @@
+{"name":"Local: PTIT138E","url":"e:\\SPOJ\\PTIT138E.cpp","tests":[{"id":1713348385024,"input":"9\n15\n14\n4\n5\n99\n12345678\n44444445\n1445\n446","output":"20\n10\n4\n5\n100\n10000000\n50000000\n2000\n500"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\SPOJ\\PTIT138E.cpp","group":"local","local":true}

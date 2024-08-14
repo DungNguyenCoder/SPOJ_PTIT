@@ -1,0 +1,1 @@
+{"name":"Local: P155PROB","url":"e:\\SPOJ\\P155PROB.cpp","tests":[{"id":1713365662004,"input":"5 20\n99 101 1000 0 97","output":"-1 1 900 -100 -3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\SPOJ\\P155PROB.cpp","group":"local","local":true}

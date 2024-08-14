@@ -1,0 +1,1 @@
+{"name":"Local: BCATM","url":"e:\\SPOJ\\BCATM.cpp","tests":[{"id":1713366390961,"input":"3 5\n1 4 5","output":"1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\SPOJ\\BCATM.cpp","group":"local","local":true}

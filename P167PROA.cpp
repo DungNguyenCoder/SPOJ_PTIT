@@ -1,122 +1,92 @@
 #include <bits/stdc++.h>
 
-#define faster() ios_base::sync_with_stdio(0);cin.tie(0);cout.tie(0);
 using namespace std;
-typedef long long ll;
-#define mx 1000000
-#define TEST 0
-
-int a[5];
-int b[4];
-
-inline void solution()
-{
-    while(1)
-    {
-        int moc;
-        for(int i = 1; i <= 4; i++)
-        {
-            cin >> a[i];
-            if(a[i] == -1)
-                moc = i;
-        }
-        if(a[1] == -1 && a[2] == -1 && a[3] == -1 && a[4] == -1)
-            break;
-        int d;
-        // cout << moc << endl;
-        if(moc == 1)
-        {
-            if(a[2] + a[4] == 2*a[3])
-            {
-                d = a[4] - a[3];
-                a[moc] = a[2] - d;
-                cout << a[moc];
-            }
-            else if(a[2] * a[4] == a[3]*a[3])
-            {
-                d = a[4] / a[3];
-                a[moc] = a[2] / d;
-                cout << a[moc];
-            }
-            else
-            {
-                cout << -1;
-            }
-        }
-        else if(moc == 2)
-        {
-            if((a[3] - a[1])/2 + a[3] == a[4])
-            {
-                d = a[4] - a[3];
-                a[moc] = a[1] + d;
-                cout << a[moc];
-            }
-            else if(sqrt(a[3] / a[1]) * a[3] == a[4])
-            {
-                d = a[4] / a[3];
-                a[moc] = a[1] * d;
-                cout << a[moc];
-            }
-            else
-            {
-                cout << -1;
-            }
-        }
-        else if(moc == 3)
-        {
-            if((a[4] - a[2])/2 + a[1] == a[2])
-            {
-                d = a[2] - a[1];
-                a[moc] = a[2] + d;
-                cout << a[moc];
-            }
-            else if(sqrt(a[4] / a[2]) * a[1] == a[2])
-            {
-                d = a[2] / a[1];
-                a[moc] = a[2] * d;
-                cout << a[moc];
-            }
-            else
-            {
-                cout << -1;
-            }
-        }
-        else if(moc == 4)
-        {
-            if(a[1] + a[3] == 2*a[2])
-            {
-                d = a[3] - a[2];
-                a[moc] = a[3] + d;
-                cout << a[moc];
-            }
-            else if(a[1] * a[3] == a[2]*a[2])
-            {
-                d = a[3] / a[2];
-                a[moc] = a[3] * d;
-                cout << a[moc];
-            }
-            else
-            {
-                cout << -1;
-            }
-        }
-        cout << "\n";
-        // cout << endl;
-    }
-}
 
 int main()
 {
-    faster();
-    int t;
-    if(TEST)
-    {
-        cin >> t;
-        cin.ignore();
-    }    
-    else        t = 1;
-    while(t--)
-    {
-        solution();
-    }
+	ios_base::sync_with_stdio(0);
+	cin.tie(0);
+	while (1)
+	{
+		long long a, b, c, d;
+		cin >> a >> b >> c >> d;
+		if (a == -1 && b == -1 && c == -1 && d == -1)
+			return 0;
+		if (a == -1)
+		{
+			if (b + d == c + c)
+			{
+				if (2 * b - c < 1 || 2 * b - c > 10000)
+					cout << "-1\n";
+				else
+					cout << 2 * b - c << endl;
+			}
+			else if (b * d == c * c)
+			{
+				if (b * b / c < 1 || b * b / c > 10000 || b * b / c != (float)b * b / c)
+					cout << "-1\n";
+				else
+					cout << b * b / c << endl;
+			}
+			else
+				cout << "-1\n";
+		}
+		else if (b == -1)
+		{
+			if (3 * c - 2 * d == a)
+			{
+				if (2 * c - d < 1 || 2 * c - d > 10000)
+					cout << "-1\n";
+				else
+					cout << 2 * c - d << endl;
+			}
+			else if ((float)c * c * c / (d * d) == (float)a)
+			{
+				if (c * c / d < 1 || c * c / d > 10000 || c * c / d != (float)c * c / d)
+					cout << "-1\n";
+				else
+					cout << c * c / d << endl;
+			}
+			else
+				cout << "-1\n";
+		}
+		else if (c == -1)
+		{
+			if (d - b == 2 * (b - a))
+			{
+				if (2 * b - a < 1 || 2 * b - a > 10000)
+					cout << "-1\n";
+				else
+					cout << 2 * b - a << endl;
+			}
+			else if ((float)d / b == (float)b * b / (a * a))
+			{
+				if (b * b / a < 1 || b * b / a > 10000 || b * b / a != (float)b * b / a)
+					cout << "-1\n";
+				else
+					cout << b * b / a << endl;
+			}
+			else
+				cout << "-1\n";
+		}
+		else if (d == -1)
+		{
+			if (a + c == b + b)
+			{
+				if (c + b - a < 1 || c + b - a > 10000)
+					cout << "-1\n";
+				else
+					cout << c + b - a << endl;
+			}
+			else if (c * a == b * b)
+			{
+				if (c * b / a < 1 || c * b / a > 10000 || c * b / a != (float)c * b / a)
+					cout << "-1\n";
+				else
+					cout << c * b / a << endl;
+			}
+			else
+				cout << "-1\n";
+		}
+	}
 }

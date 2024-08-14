@@ -1,0 +1,1 @@
+{"name":"Local: PTIT013B","url":"e:\\SPOJ\\PTIT013B.cpp","tests":[{"id":1713493037082,"input":"1\n3\nBC\nCN\nBC 10\nCN 10\nNN 5","output":"1 2 1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\SPOJ\\PTIT013B.cpp","group":"local","local":true}

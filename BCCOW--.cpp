@@ -5,40 +5,42 @@ using namespace std;
 typedef long long ll;
 #define TEST 0
 
-bool cmp(ll a, ll b)
+int a[100];
+int b[100];
+
+int sinh(int n)
 {
-    return a > b;
+    int i = n;
+    while(i >= 1 && a[i] == 1)
+    {
+        a[i] = 0;   
+        --i;
+    }
+    if(i == 0)
+        return 0;
+    a[i] = 1;
+    return 1;
 }
 
 void solution()
 {
-    int c, n;
+    int c,n,tong,max = 0;
     cin >> c >> n;
-    ll a[n + 5];
-    for(int i = 0; i < n; i++)
+    for(int i = 1; i <= n; i++)
     {
-        cin >> a[i];
+        cin >> b[i];
     }
-    sort(a,a+n,cmp);
-    ll b[n + 5];
-    b[0] = a[0];
-    int moc;
-    for(int i = 1; i < n; i++)
+    while(sinh(n))
     {
-        b[i] = a[i] + b[i - 1];
-        if(b[i] >= c)
+        tong = 0;
+        for(int i = 1; i <= n; i++)
         {
-            moc = i;
-            break;
+            tong += a[i]*b[i];
+            if(tong > max && tong <= c)
+                max = tong;
+            if(tong > c)
+                break;
         }
-    }
-    --moc;
-    ll max = b[moc];
-    for(int i = moc + 2; i < n; i++)
-    {
-        ll sum = b[moc] + a[i];
-        if(sum > max && sum <= c)
-            max = sum;
     }
     cout << max;
 }

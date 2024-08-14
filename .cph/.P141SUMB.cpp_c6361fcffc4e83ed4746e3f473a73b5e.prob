@@ -1,0 +1,1 @@
+{"name":"Local: P141SUMB","url":"e:\\SPOJ\\P141SUMB.cpp","tests":[{"id":1714451889796,"input":"3\n3 1 2","output":"0"},{"id":1714451899849,"input":"2\n2 2","output":"1"},{"id":1714451935371,"input":"5\n5 3 3 3 1","output":"2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\SPOJ\\P141SUMB.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: P178PROF","url":"e:\\SPOJ\\P178PROF.cpp","tests":[{"id":1713889700629,"input":"1\n2\n3\n0","output":"1\n2\n8 "}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\SPOJ\\P178PROF.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: CPPLAN02","url":"e:\\SPOJ\\CPPLAN02.cpp","tests":[{"id":1712889847146,"input":"1 \n12 \n198111","output":"198123"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\SPOJ\\CPPLAN02.cpp","group":"local","local":true}

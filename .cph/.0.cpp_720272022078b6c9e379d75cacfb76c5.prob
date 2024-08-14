@@ -1,1 +1,1 @@
-{"name":"Local: 0","url":"e:\\SPOJ\\0.cpp","tests":[{"id":1712161590991,"input":"CAhat","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\SPOJ\\0.cpp","group":"local","local":true}
+{"name":"Local: 0","url":"e:\\SPOJ\\0.cpp","tests":[{"id":1712161590991,"input":"2 3\n2 4\n3 2\n0 0","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\SPOJ\\0.cpp","group":"local","local":true}

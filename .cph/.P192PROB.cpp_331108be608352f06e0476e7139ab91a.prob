@@ -1,0 +1,1 @@
+{"name":"Local: P192PROB","url":"e:\\SPOJ\\P192PROB.cpp","tests":[{"id":1713089875159,"input":"8 13 9","output":"24"},{"id":1713090003954,"input":"8 12 20","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\SPOJ\\P192PROB.cpp","group":"local","local":true}

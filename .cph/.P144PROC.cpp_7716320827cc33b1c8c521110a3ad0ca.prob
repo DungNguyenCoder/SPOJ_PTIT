@@ -1,0 +1,1 @@
+{"name":"Local: P144PROC","url":"e:\\SPOJ\\P144PROC.cpp","tests":[{"id":1712853950158,"input":"2 3\n2 4\n3 2\n0 0","output":"8\n16\n9"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\SPOJ\\P144PROC.cpp","group":"local","local":true}

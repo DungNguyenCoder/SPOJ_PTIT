@@ -1,0 +1,1 @@
+{"name":"Local: CPPLCM04","url":"e:\\SPOJ\\CPPLCM04.cpp","tests":[{"id":1712851074841,"input":"1                         \n1221\n1234567891011121314151617181920212223242526272829","output":"3"},{"id":1712852331714,"input":"2\n12345 \n10\n123\n4","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\SPOJ\\CPPLCM04.cpp","group":"local","local":true}

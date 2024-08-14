@@ -1,0 +1,1 @@
+{"name":"Local: CPPPRI17","url":"e:\\SPOJ\\CPPPRI17.cpp","tests":[{"id":1712853297650,"input":"2 \n1 10\n1 1000000000000","output":"2\n78498"},{"id":1712853465536,"input":"","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\SPOJ\\CPPPRI17.cpp","group":"local","local":true}

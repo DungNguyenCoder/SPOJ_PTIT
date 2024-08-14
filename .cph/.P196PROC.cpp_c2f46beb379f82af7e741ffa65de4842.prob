@@ -1,0 +1,1 @@
+{"name":"Local: P196PROC","url":"e:\\SPOJ\\P196PROC.cpp","tests":[{"id":1713491174580,"input":"3\nKBG\nKKK","output":"BBK"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\SPOJ\\P196PROC.cpp","group":"local","local":true}

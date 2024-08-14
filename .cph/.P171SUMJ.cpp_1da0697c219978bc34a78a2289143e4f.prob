@@ -1,0 +1,1 @@
+{"name":"Local: P171SUMJ","url":"e:\\SPOJ\\P171SUMJ.cpp","tests":[{"id":1714465875236,"input":"1 100000 -100000","output":"2\n-100000.99999\n0.99999"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\SPOJ\\P171SUMJ.cpp","group":"local","local":true}
